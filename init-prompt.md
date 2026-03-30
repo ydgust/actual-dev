@@ -2,7 +2,7 @@ Do NOT write or modify any code.
 
 I want a high-level understanding of the system slice relevant to this feature.
 
-Given this codebase and the files I am looking at, explain:
+Given this codebase and the files I am looking at and the feature I am implementing, explain:
 
 1. Entry points
    - What starts this process?
